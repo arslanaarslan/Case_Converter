@@ -1,0 +1,20 @@
+.title {
+    font-family: sans-serif;
+    font-size: 36px;
+    font-weight: 520;
+}
+
+textarea {
+    margin-top: 10px;
+    width: 99%;
+    height: 500px;
+    display: block;
+}
+
+button {
+    border: 0;
+    padding: 5px;
+    margin-top: 10px;
+    margin-right: 20px;
+    background-color: rgb(255, 160, 122);
+}
